@@ -24,14 +24,13 @@ Users should be able to:
 
 ### Screenshot
 
-```html
-<img src="./screenshots/mobile-view.png">
-<img src="./screenshots/window-view.png">
- ```
+(./screenshots/mobile-view.png)
+(./screenshots/window-view.png)
+
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/mihaiches/card_component_FM)
 
 ## My process
 
